@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Smart_Alert</string>
+    <string name="logout">Logout</string>
+    <string name="events_near_me">Events Near Me</string>
+
+    <string-array name="natural_events">
+        <item>Fire</item>
+        <item>Tsunami</item>
+        <item>Earthquake</item>
+        <item>Tornado</item>
+        <item>Flood</item>
+    </string-array>
+    <string name="register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Login2">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Citizen">Citizen</string>
+    <string name="CPEmployee">Civil Protection Employee</string>
+    <string name="CPEmployeeShort">CP Employee</string>
+    <string name="ReportEvent">Report a Natural Event</string>
+    <string name="SubToApp">Subscribe to app</string>
+    <string name="Title">Title</string>
+    <string name="Type">Type</string>
+    <string name="SS">System Score</string>
+    <string name="notifyUsers">Notify Users</string>
+    <string name="uploadEventTitle">Upload Event</string>
+    <string name="Logout">Logout</string>
+    <string name="uploadImage">Upload Image</string>
+    <string name="Back">Back</string>
+    <string name="upload">upload</string>
+    <string name="chooseString">Choose Event</string>
+    <string name="selectRole">Select Role:</string>
+    <string name="Total">Event Calls : </string>
+    <string name="viewAnalytics">View Analytics </string>
+    <string-array name="roles_array">
+        <item>Citizen</item>
+        <item>Civil Protection Employee</item>
+    </string-array>
+
+</resources>

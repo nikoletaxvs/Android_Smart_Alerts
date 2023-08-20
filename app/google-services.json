@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045847078249",
+    "project_id": "smart-alert-f5055",
+    "storage_bucket": "smart-alert-f5055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045847078249:android:7b061d0b52cf0753bdb9f8",
+        "android_client_info": {
+          "package_name": "com.example.smart_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045847078249-rap1cu4sq3qcllilh8d2fq169is97e92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjqjAjsLa4N7dVKICSmrTrqAxE2DaJbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045847078249-rap1cu4sq3qcllilh8d2fq169is97e92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart_Alert</string>
+    <string name="logout">Logout</string>
+    <string name="events_near_me">Events Near Me</string>
+
+    <string-array name="natural_events">
+        <item>Φωτιά</item>
+        <item>Τσουνάμι</item>
+        <item>Σεισμός</item>
+        <item>Aνεμοστρόβιλος</item>
+        <item>Πλημμύρα</item>
+    </string-array>
+    <string name="register">εγγραφη</string>
+    <string name="Login">Εισοδος</string>
+    <string name="Login2">Είσοδος</string>
+    <string name="Email">Email</string>
+    <string name="Password">Κωδικος Προσβασης</string>
+    <string name="Citizen">Πολιτης</string>
+    <string name="CPEmployee">Υπαλληλος Π. Προστασιας</string>
+    <string name="CPEmployeeShort">Υπαλληλος Π.Π.</string>
+    <string name="ReportEvent">Smart Alert</string>
+    <string name="SubToApp">Καντε Εγγραφη </string>
+    <string name="Title">Τιτλος</string>
+    <string name="Type">Τυπος</string>
+    <string name="SS">Σκορ Συστηματος</string>
+    <string name="notifyUsers">Ειδοποιηση χρηστων</string>
+    <string name="uploadEventTitle">Μεταφορτωση</string>
+    <string name="Logout">Έξοδος</string>
+    <string name="uploadImage">Ανεβασετε Εικονα</string>
+    <string name="Back">Πισω</string>
+    <string name="upload">Ανεβασε</string>
+    <string name="chooseString">Φαινόμενα</string>
+    <string name="selectRole">Διάλεξε Ρόλο:</string>
+    <string name="Total">Συμβάντα: </string>
+    <string name="viewAnalytics">στατιστικα </string>
+    <string-array name="roles_array">
+        <item>Πολίτης</item>
+        <item>Υπάλληλος Π. Προστασίας</item>
+    </string-array>
+</resources>

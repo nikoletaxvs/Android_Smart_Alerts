@@ -21,7 +21,7 @@ import java.util.Map;
 
 public class FCMSend {
     private static String BASE_URL = "https://fcm.googleapis.com/fcm/send";
-    private static String SERVER_KEY = "key=AAAA84FX9Wk:APA91bE-YnORs_317TYu7kGeXBAKTsHK5ug4TaIS1i_RQizARI7qb9Cyi7SwfZlgYIsT-M5zCKuwhpYMwo_osBuMedcrE1qiqre40yEXSd3bNo64PMCSo6h0atdVx0b0AjRdb1Fu3AUm";
+    private static String SERVER_KEY = "key=secret";
 
     public static void pushNotification(Context context, String token,String title, String message){
 
